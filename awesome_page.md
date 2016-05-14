@@ -10,6 +10,6 @@ Here's my screenshot! It's just of my work, since my guide and I had ended by th
 ---
     this is a code block
 
-Need help? [Google](http://google.com) has the answers.
+Need help? [Google](http://http://w3schools.com/) has the answers.
 
 
