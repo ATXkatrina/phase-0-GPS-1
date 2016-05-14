@@ -10,6 +10,7 @@ Here's my screenshot! It's just of my work, since my guide and I had ended by th
 ---
     this is a code block
 
-Need help? [Google](http://stackoverflow.com/) has the answers.
+
+Need help? [Stack Overflow](http://stackoverflow.com/) has the answers.
 
 
