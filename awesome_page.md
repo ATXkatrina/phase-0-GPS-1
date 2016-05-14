@@ -6,8 +6,9 @@ Here's my screenshot! It's just of my work, since my guide and I had ended by th
 
 * this is **bold**
 * this is *italic*
+
 ---
-    code (4 spaces indent)
+    this is a code block
 
 Need help? [Google](http://google.com) has the answers.
 
